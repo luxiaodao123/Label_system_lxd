@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/ZC_Label_System">
+        <file>Resources/big.png</file>
+        <file>Resources/edit.png</file>
+        <file>Resources/save.png</file>
+        <file>Resources/small.png</file>
+    </qresource>
+</RCC>
